@@ -1,6 +1,6 @@
 app-id: com.tercad.fingrom
 runtime: org.gnome.Platform
-runtime-version: "49"
+runtime-version: "50"
 sdk: org.gnome.Sdk
 command: fingrom
 separate-locales: false
@@ -38,7 +38,7 @@ modules:
       - install -Dm644 com.tercad.fingrom.metainfo.xml /app/share/appdata/com.tercad.fingrom.metainfo.xml
     sources:
       - type: file
-        url: https://github.com/lyskouski/app-finance/releases/download/v7.2.0/fingrom_Linux.tar.gz
-        sha256: "4ee0b46aa68c177231b825cdeb3bc5d89813f703e6bb71606d98da5a146307a2"
+        url: https://github.com/lyskouski/app-finance/releases/download/v7.2.1/fingrom_Linux.tar.gz
+        sha256: "f7a66353ec5835cf9ebecabd24578db00de363963dad75b43f63e1169c9c48df"
       - type: file
         path: com.tercad.fingrom.metainfo.xml

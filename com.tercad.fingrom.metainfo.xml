@@ -108,7 +108,7 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="7.2.2" date="2026-07-10">
+    <release version="7.2.3" date="2026-07-11">
       <description translatable="no">
         <ul>
           <li>Adding Georgian (KA) and Russian (RU) languages</li>
